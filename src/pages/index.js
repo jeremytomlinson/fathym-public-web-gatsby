@@ -50,23 +50,23 @@ const IndexPage = () => {
       <div style={header}>
           <img style={headerImg} src={photos_logo} alt="PHOTOS" />
           <div style={flexbox}>
-              <img src={actionbronson} width="523.4" height="393.5" style={margintwo} />
-              <img src={ateam} width="523.4" height="393.5" style={margintwo} />
-              <img src={bangarang_pimpire} width="523.4" height="393.5" style={margintwo} />
-              <img src={bicycle_kick} width="504.3" height="379.2" style={margintwo} />
-              <img src={bigbrother} width="379.2" height="379.2" style={margintwo} />
-              <img src={billydillinger} width="504.3" height="379.2" style={margintwo} />
-              <img src={butterfly_fractal} width="379.2" height="379.2" style={margintwo} />
-              <img src={caps_lock} width="400.7" height="400.7" style={margintwo} />
-              <img src={carterbeauford} width="300.5" height="400.7" style={margintwo} />
-              <img src={clutch_neil} width="532.9" height="400.7" style={margintwo} />
-              <img src={coach_nelson} width="549.5" height="413.2" style={margintwo} />
-              <img src={dannycarey} width="469.6" height="353.1" style={margintwo} />
-              <img src={davelombardo} width="469.6" height="353.1" style={margintwo} />
-              <img src={dead_cross} width="353.1" height="353.1" style={margintwo} />
-              <img src={duckseason_rabbitseason} width="196.8" height="393.5" style={margintwo} />
-              <img src={dillinger} width="608.3" height="304.2" style={margintwo} />
-              <img src={epic_sax_guy} width="404.6" height="304.2" style={margintwo} />
+              <img src={actionbronson} width="523.4" height="393.5" style={margintwo} alt="" />
+              <img src={ateam} width="523.4" height="393.5" style={margintwo} alt="" />
+              <img src={bangarang_pimpire} width="523.4" height="393.5" style={margintwo} alt="" />
+              <img src={bicycle_kick} width="504.3" height="379.2" style={margintwo} alt="" />
+              <img src={bigbrother} width="379.2" height="379.2" style={margintwo} alt="" />
+              <img src={billydillinger} width="504.3" height="379.2" style={margintwo} alt="" />
+              <img src={butterfly_fractal} width="379.2" height="379.2" style={margintwo} alt="" />
+              <img src={caps_lock} width="400.7" height="400.7" style={margintwo} alt="" />
+              <img src={carterbeauford} width="300.5" height="400.7" style={margintwo} alt="" />
+              <img src={clutch_neil} width="532.9" height="400.7" style={margintwo} alt="" />
+              <img src={coach_nelson} width="549.5" height="413.2" style={margintwo} alt="" />
+              <img src={dannycarey} width="469.6" height="353.1" style={margintwo} alt="" />
+              <img src={davelombardo} width="469.6" height="353.1" style={margintwo} alt="" />
+              <img src={dead_cross} width="353.1" height="353.1" style={margintwo} alt="" />
+              <img src={duckseason_rabbitseason} width="196.8" height="393.5" style={margintwo} alt="" />
+              <img src={dillinger} width="608.3" height="304.2" style={margintwo} alt="" />
+              <img src={epic_sax_guy} width="404.6" height="304.2" style={margintwo} alt="" />
           </div>
       </div>
     </main>
